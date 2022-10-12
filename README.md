@@ -1,4 +1,7 @@
 # Write-High-Score-Course-Papers
-###### 因为淋过雨，所以想为他人撑伞。
-### 保姆级教程让你最多三天，写出高分课程论文。
-##### 当前版本v0.0.1
+
+###### "In the first act, you get your hero up a tree. The second act, you throw rocks at him. For the third act, you let him down."--George Abbott
+
+### 教你三天之内，写出高分课程论文。
+
+##### v0.0.2
